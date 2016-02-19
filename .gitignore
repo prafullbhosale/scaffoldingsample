@@ -1,0 +1,6 @@
+**/bin/*
+**/*.dll
+**/*.exe
+**/.vs/*
+**/project.lock.json
+**/artifacts/
